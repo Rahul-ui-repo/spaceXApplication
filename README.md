@@ -1,4 +1,5 @@
-for detailed Information Please read Readme.docx
+for detailed Information on Performance, SEO, Accessibility, Best Practices  Please read Readme.docx
+
 # spaceXApplication
 A responsive React application showing the details of all Rockets launched by Elon Musk's Space Exploration Technologies Corp.(SpaceX) between 2006-2020.
 It provides in-depth details of the rockets including their year of launch & land with their success status, cartoon logo of the mission etc. This application also allows Users to filter details by year, launch success and landing success. This project is a good example of Responsive Web Application build using React.
