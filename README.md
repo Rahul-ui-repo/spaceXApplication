@@ -1,4 +1,4 @@
-for detailed Information on Performance, SEO, Accessibility, Best Practices  Please read Readme.docx
+# For detailed Information on Performance, SEO, Accessibility, Best Practices  Please read Readme.docx
 
 # spaceXApplication
 A responsive React application showing the details of all Rockets launched by Elon Musk's Space Exploration Technologies Corp.(SpaceX) between 2006-2020.
@@ -34,6 +34,6 @@ Production URL: https://spacexapplication-sapient.herokuapp.com/spacexhome
 
 Author: Rahul Shaw
 
-# Thank You!!! 
+# Thank You!!!
 
 
