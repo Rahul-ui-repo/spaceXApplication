@@ -1,4 +1,4 @@
-# For detailed Information on Performance, SEO, Accessibility, Best Practices etc. Please read Readme.docx
+# For detailed Information on Performance, SEO, Accessibility, Best Practices etc. Please refer Readme.docx
 
 # spaceXApplication
 
