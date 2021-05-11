@@ -8,7 +8,7 @@ It provides in-depth details of the rockets including their year of launch & lan
 
 # Learning Curve
 
-Being a big fan of Elon Musk, This project is my personal favourite and it has helped me in gaining in-depth knowledge about the different technologies which are used to implement superb Web Applications. I got a better understanding of the Data and Structure types. The wonderful responsive design and user friendly UI is the uniqueness of this Project. I would like to thank Publicis.Sapient for giving me this opportunity to develop this Application.
+Being a big fan of Elon Musk, This project is my personal favourite and it has helped me in gaining in-depth knowledge about the different technologies which are used to implement superb Web Applications. I got a better understanding of the Data and Structure types. The wonderful responsive design and user friendly UI is the uniqueness of this Project.
 
 
 # Technologies Used
